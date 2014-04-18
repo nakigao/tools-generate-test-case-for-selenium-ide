@@ -1,0 +1,7 @@
+# this is comment line
+baseurl,casename
+http://hogehoge.com,test.case.001
+http://hogehoge.com,test.case.002
+http://hogehoge.com,test.case.003
+http://hogehoge.com,test.case.004
+http://hogehoge.com,test.case.005
