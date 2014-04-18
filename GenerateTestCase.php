@@ -39,7 +39,7 @@ EOM;
 			$result .= <<< EOM
 <tr>
 	<td>open</td>
-	<td>/path/to/directory</td>
+	<td>{$line[2]}</td>
 	<td></td>
 </tr>
 <tr>

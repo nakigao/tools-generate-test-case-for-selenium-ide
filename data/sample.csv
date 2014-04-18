@@ -1,7 +1,7 @@
 # this is comment line
 baseurl,casename
-http://hogehoge.com,test.case.001
-http://hogehoge.com,test.case.002
-http://hogehoge.com,test.case.003
-http://hogehoge.com,test.case.004
-http://hogehoge.com,test.case.005
+http://hogehoge.com/,test.case.001,controller/action1
+http://hogehoge.com/,test.case.002,controller/action2
+http://hogehoge.com/,test.case.003,controller/action3
+http://hogehoge.com/,test.case.004,controller/action4
+http://hogehoge.com/,test.case.005,controller/action5
